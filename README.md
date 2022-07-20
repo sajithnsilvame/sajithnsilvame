@@ -1,7 +1,7 @@
 ### Hi there 👦
 
 
-- ⚙️ I use daily:React
+- ⚙️ I use daily: React
 - 🌱 I’m currently learning React.js, Express.js, MongoDB, Node.js 
 - 👯 I’m looking to collaborate on JavaScript, React.js, Express.js, MongoDB, Node.js 
 - ❤ I love sharing knowledge with the community via maintaing my own blog 
