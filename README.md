@@ -20,12 +20,10 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" width="40" height="40" />
   </a>
-  <p>
+  
   <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
     <img src="https://assets.ubuntu.com/v1/8dd99b80-ubuntu-logo14.png" alt="Ubuntu" width="40" height="40" />
   </a>
-</p>
-
 
   </p>
   
