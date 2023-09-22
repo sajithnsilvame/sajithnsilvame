@@ -12,7 +12,21 @@
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
     <img src="https://laravel.com/img/logotype.min.svg" alt="Laravel" width="40" height="40" />
   </a>
+    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+    <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" alt="Bootstrap" width="40" height="40" />
+  </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" width="40" height="40" />
+  </a>
+  <p>
+  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
+    <img src="https://assets.ubuntu.com/v1/8dd99b80-ubuntu-logo14.png" alt="Ubuntu" width="40" height="40" />
+  </a>
+</p>
+
+
   </p>
   
 
