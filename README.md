@@ -10,6 +10,11 @@
     <img src="https://www.php.net/images/logos/new-php-logo.svg" alt="PHP" width="40" height="40" />
   </a>
   
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+    <img src="https://laravel.com/img/logotype.min.svg" alt="Laravel" width="40" height="40" />
+  </a>
+
+
 </p>
 
 - ⚡ Fun fact: 👨‍💻Learning new things, 📖Reading, 🏕️Travelling & camping  
