@@ -80,9 +80,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sajithnsilvame&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajithnsilvame&theme=radical" alt="GitHub Streak" />
-</p>
 
 ### 🤝 Connect with Me
 
@@ -90,12 +87,9 @@
   <a href="https://www.linkedin.com/in/sajith-nishantha-silva-265950213/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:sajithnsilva.me@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
----
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sajithnsilvame&color=blueviolet" alt="Profile Views" />
-</p>
+
