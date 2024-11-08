@@ -1,9 +1,11 @@
 <h1 align="center">Hi there! I'm Sajith 👋</h1>
 <h3 align="center">A passionate Full-Stack Developer specializing in MERN Stack & Laravel</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;MERN+Stack+Developer;Laravel+Developer;Always+learning+new+things" />
-</p>
+<div align="center">
+  <h2 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Developer;Laravel+Developer;Always+learning+new+things" alt="Typing SVG" />
+  </h2>
+</div>
 
 ### 👨‍💻 About Me
 
@@ -21,7 +23,7 @@
 - **Framework/Library**: 
   ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
   
 - **State Management**: 
   ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
