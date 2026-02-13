@@ -4,10 +4,6 @@
   Full-Stack Developer With Over 5 Years Of Experience 
 </h3>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&width=450&lines=Building+Scalable+Web+Applications;MERN+Stack+Developer;Laravel+&+Next.js+Enthusiast;Always+Learning+and+Creating" alt="Typing SVG" />
-</div>
-
 <br/>
 
 <div align="center">
@@ -34,7 +30,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,redux,nodejs,express,laravel,dotnet,mongodb,mysql,postgres,aws,gcp,firebase,supabase,git,github,ubuntu,windows&perline=8" alt="Tech Stack Icons"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,redux,nodejs,express,nestjs,fastapi,laravel,mongodb,mysql,postgres,docker,aws,gcp,firebase,supabase,git,github,githubactions,ubuntu,windows&perline=8" alt="Tech Stack Icons"/>
 </p>
 
 #### Frontend
