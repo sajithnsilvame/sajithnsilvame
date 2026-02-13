@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! I'm Sajith 👋</h1>
 
 <h3 align="center">
-  Full-Stack Developer | MERN & Laravel Specialist
+  Full-Stack Developer With Over 5 Years Of Experience 
 </h3>
 
 <div align="center">
@@ -62,26 +62,16 @@
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sajithnsilvame&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajithnsilvame&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajithnsilvame&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
-</p>
-
 <br/>
 
-### 🌟 Featured Projects
+### 🌟 Latest Projects
 
 <!-- You can later replace these with real project cards / links -->
-- **E-Commerce Platform** — Next.js 14 + TypeScript + Tailwind + Supabase  
-- **Task Management App** — MERN Stack + Redux Toolkit + Tailwind  
-- **Blog & CMS** — Laravel 11 + Inertia.js + Vue 3  
-- **Portfolio & Personal Site** — Next.js + Tailwind + Vercel
+- **E-Commerce Platform** — NextJS 16 + TypeScript + Tailwind + MySQL + Node/Express + AWS  
+- **Mobile Shop Management System** — NextJS 16 + Tailwind+ TypeScript + Redux Toolkit + Node/Express + PostgreSQL + AWS
+- **News Content System** - NextJS 16 + Tailwind + TypeScript + Redux + Firebase + MongoDB + Node/Express + AWS
 
 <br/>
 
@@ -105,6 +95,3 @@ Feel free to reach out for collaboration, freelance opportunities, or just to ch
   <i>Thanks for stopping by! 🚀</i>
 </p>
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sajithnsilvame.sajithnsilvame" alt="Profile Views"/>
-</p>
