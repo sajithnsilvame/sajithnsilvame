@@ -38,8 +38,9 @@
 - Redux · Context API · React Query
 
 #### Backend
-- Node.js · Express.js · Laravel · ASP.NET Core
-- JavaScript · TypeScript · PHP · C#
+- Node.js · Express.js · TypeScript · NestJS
+- Python · FastAPI
+- PHP · Laravel 
 
 #### Databases
 - MongoDB · PostgreSQL · MySQL
